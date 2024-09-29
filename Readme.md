@@ -1,1 +1,1 @@
-# Snake game using turtle module
+# Snake game
